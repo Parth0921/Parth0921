@@ -58,7 +58,7 @@
   <img width=390 src="https://streak-stats.demolab.com?user=Parth0921&theme=gruvbox&border_radius=20" alt="GitHub Streak" />
   <img width=390 src="https://github-readme-stats-parth0921.vercel.app/api?username=Parth0921&show_icons=true&theme=react&rank_icon=github&border_radius=20&exclude_repo=github-readme-stats,github-readme-stats-Parth0921" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-parth0921.vercel.app/api/top-langs/?username=Parth0921&hide=HTML,Jupyter Notebook,Makefile&langs_count=8&layout=compact&theme=react&border_radius=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,github-readme-stats-Parth0921" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-parth0921.vercel.app/api/top-langs/?username=Parth0921&hide=HTML,Jupyter%20Notebook,Makefile&langs_count=8&layout=compact&theme=react&border_radius=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,github-readme-stats-Parth0921" alt="top langs" />
 </div>
 
 <br/><br/>
