@@ -16,9 +16,8 @@
 
 ⚡ Life Summarized **Swiping right for algorithms and left for inefficient code—my love life's a binary search for tech perfection!**
 
- </div>
+ <div>
  
-<div align="center"> 
   <a href="mailto:parth.rathod12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -31,36 +30,3 @@
 </div>
 
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css,vscode,github,tailwind,git,redis" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,postman,firebase,mongodb,cpp,mysql,dart,nginx" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Parth0921/Parth0921/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=Parth0921&theme=gruvbox&border_radius=20" alt="GitHub Streak" />
-  <img width=390 src="https://github-readme-stats-parth0921.vercel.app/api?username=Parth0921&show_icons=true&theme=react&rank_icon=github&border_radius=20&exclude_repo=github-readme-stats,github-readme-stats-Parth0921" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-parth0921.vercel.app/api/top-langs/?username=Parth0921&hide=HTML,Dart,Jupyter%20Notebook,Makefile&langs_count=8&layout=compact&theme=react&border_radius=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,github-readme-stats-Parth0921" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
